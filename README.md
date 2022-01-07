@@ -11,10 +11,10 @@
 
 
 ### Connect with me:
-[<img align="left" alt="pikuskrystian  | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
-[<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />] [gmail]
+[<img align="left" alt="pikuskrystian  | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/krystian-pikus-531201213/)
+[<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:pikuskrystian@gmail.com)
 
-[<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
+[<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/krystianpikus/)
 
 
 
@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw/githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] [visualstudiocode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw/githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
 [<img align="left" alt="clang" width="26px" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>]
 [<img align="left" alt="clang" width="26px" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>] [cpp]
@@ -42,7 +42,7 @@
 
 
 
-[twitter] : https://twitter.com/pikuskrystian
+
 [instagram] : https://www.instagram.com/krystianpikus/
 [linkedin] : https://www.linkedin.com/in/krystian-pikus-531201213/
 [visualstudiocode] : https://code.visualstudio.com/
