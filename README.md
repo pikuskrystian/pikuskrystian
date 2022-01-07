@@ -32,7 +32,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img align="left" alt="pikuskrystian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pikuskrystian&show_icons=treu&hide_border=true"   />
 
-
+<br/>
 
 
 
