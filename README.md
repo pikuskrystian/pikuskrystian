@@ -41,11 +41,3 @@
 
 
 
-
-
-[instagram] : https://www.instagram.com/krystianpikus/
-[linkedin] : https://www.linkedin.com/in/krystian-pikus-531201213/
-[visualstudiocode] : https://code.visualstudio.com/
-[github] : https://github.com/
-[MCuexpresso] : https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE
-[gmail] : mailto:pikuskrystian@gmail.com
