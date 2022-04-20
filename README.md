@@ -4,7 +4,7 @@
 ### I'm a Student
 
 - 🌱 I'm currently learning everything!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun Fact: I love to train in the gym and play voleyball
 
 
