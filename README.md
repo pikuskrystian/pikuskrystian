@@ -15,7 +15,7 @@
 [<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:pikuskrystian@gmail.com)
 
 [<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/krystianpikus/)
-[<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/pikuskrystian)
+
 
 
 
