@@ -1,7 +1,8 @@
 ### Hi there, I'm Krystian 
 
 
-### I am a graduate in Applied Computer Science in the field of Internet of Things and Embedded Systems
+### About me
+I am a graduate in Applied Computer Science in the field of internet of things and embedded systems
 
 - 🌱 I'm currently learning everything!
 - 🥅 2022 Goals: Find my first job!
