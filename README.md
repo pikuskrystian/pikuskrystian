@@ -1,11 +1,11 @@
 ### Hi there, I'm Krystian 
 
 
-### I'm a Student
+### I am a graduate in Applied Computer Science in the field of Internet of Things and Embedded Systems
 
 - 🌱 I'm currently learning everything!
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun Fact: I love to train in the gym and play voleyball
+- 🥅 2022 Goals: Find my first job!
+- ⚡ Fun Fact: I love to train in the gym and play voleyball.
 
 
 
