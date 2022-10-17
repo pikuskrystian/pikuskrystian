@@ -14,8 +14,6 @@
 [<img align="left" alt="pikuskrystian  | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/linkedin.svg" />](https://www.linkedin.com/in/krystian-pikus-531201213/)
 [<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:pikuskrystian@gmail.com)
 
-[<img align="left" alt="google.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/krystianpikus/)
-
 
 
 
