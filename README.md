@@ -5,7 +5,7 @@
 I am a graduate in Applied Computer Science in the field of internet of things and embedded systems
 
 - 🌱 I'm currently learning everything!
-- 🥅 2023 Goals: Find my first job!
+- 🥅 2024 Goals: Master a New Microcontroller Platform
 - ⚡ Fun Fact: I love to train in the gym and play voleyball.
 
 
