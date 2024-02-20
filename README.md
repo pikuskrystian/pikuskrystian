@@ -4,7 +4,7 @@
 ### About me
 I am a graduate in Applied Computer Science in the field of internet of things and embedded systems
 
-- 🌱 I'm currently learning everything!
+- 🌱 Im working on: Improve Code Quality and Testing Practices
 - 🥅 2024 Goals: Master a New Microcontroller Platform
 - ⚡ Fun Fact: I love to train in the gym and play voleyball.
 
