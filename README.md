@@ -2,7 +2,10 @@
 
 
 ### About me
-I am a graduate in Applied Computer Science in the field of internet of things and embedded systems
+I am a C/C++ Developer with nearly two years of experience as an Embedded Engineer. 
+I specialize in working with low-level electronic components, focusing on developing and enhancing C++ codebases.
+My passion for technology drives me to solve complex problems, whether in software or hardware, and I am always eager to take
+on new challenges.
 
 - 🌱 Im working on: Improve Code Quality and Testing Practices
 - 🥅 2024 Goals: Master a New Microcontroller Platform
