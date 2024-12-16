@@ -2,7 +2,7 @@
 
 
 ### About me
-I am a C/C++ Developer with nearly two years of experience as an Embedded Engineer. 
+I am a C/C++ Developer with nearly two three of experience as an Embedded Engineer. 
 I specialize in working with low-level electronic components, focusing on developing and enhancing C++ codebases.
 My passion for technology drives me to solve complex problems, whether in software or hardware, and I am always eager to take
 on new challenges.
