@@ -33,7 +33,7 @@ on new challenges.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
-<img align="left" alt="pikuskrystian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pikuskrystian&show_icons=treu&hide_border=true"   />
+<!-- <img align="left" alt="pikuskrystian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pikuskrystian&show_icons=treu&hide_border=true"   /> -->
 
 
 
