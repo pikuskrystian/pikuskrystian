@@ -8,7 +8,7 @@ My passion for technology drives me to solve complex problems, whether in softwa
 on new challenges.
 
 - 🌱 Im working on: Improve Code Quality and Testing Practices
-- 🥅 2025 Goals: Master a New Microcontroller Platform
+- 🥅 2025 Goals: Learn a New Microcontroller Platform
 - ⚡ Fun Fact: I love to train in the gym and play voleyball.
 
 
