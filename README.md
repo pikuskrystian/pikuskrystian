@@ -2,13 +2,13 @@
 
 
 ### About me
-I am a C/C++ Developer with nearly three of experience as an Embedded Engineer. 
+I am a C/C++ Developer with nearly four of experience as an Embedded Engineer. 
 I specialize in working with low-level electronic components, focusing on developing and enhancing C++ codebases.
 My passion for technology drives me to solve complex problems, whether in software or hardware, and I am always eager to take
 on new challenges.
 
 - 🌱 Im working on: Improve Code Quality and Testing Practices
-- 🥅 2025 Goals: Learn a New Microcontroller Platform
+- 🥅 2026 Goals: Learn a New Microcontroller Platform
 - ⚡ Fun Fact: I love to train in the gym and play voleyball.
 
 
@@ -34,6 +34,7 @@ on new challenges.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 <!-- <img align="left" alt="pikuskrystian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pikuskrystian&show_icons=treu&hide_border=true"   /> -->
+
 
 
 
