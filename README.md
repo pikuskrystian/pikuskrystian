@@ -2,10 +2,10 @@
 
 
 ### About me
-I am a C/C++ Developer with nearly four of experience as an Embedded Engineer. 
-I specialize in working with low-level electronic components, focusing on developing and enhancing C++ codebases.
-My passion for technology drives me to solve complex problems, whether in software or hardware, and I am always eager to take
-on new challenges.
+I am a C++ / Qt Developer with four years of professional experience focused on building desktop
+applications using Qt and QML. I specialize in modern C++ development, clean architecture, and
+creating responsive user interfaces with QML. My background in low-level programming gives me a
+strong understanding of performance, stability, and system-level behavior
 
 - 🌱 Im working on: Improve Code Quality and Testing Practices
 - 🥅 2026 Goals: Learn a New Microcontroller Platform
